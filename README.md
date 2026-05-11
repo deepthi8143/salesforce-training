@@ -24,45 +24,14 @@ The main objectives of this training program are:
 # 📚 Topics Covered
 
 ## ✅ Salesforce Fundamentals
-- Introduction to Salesforce
-- What is CRM
-- Cloud Computing Basics
-- Salesforce Ecosystem
-
----
 
 ## ✅ Salesforce Platform
-- Salesforce Platform Overview
-- Multi-Tenant Architecture
-- Navigation and User Interface
-- App Launcher and Tabs
-
----
 
 ## ✅ Data Model Concepts
-- Objects
-- Records
-- Fields
-- Relationships
-- Standard Objects
-- Custom Objects
-
----
-
-## ✅ Salesforce Development
-- Configuration vs Coding
-- Apex Basics
-- APIs and Integrations
-- Lightning Components
-- Automation Concepts
-
----
 
 ## ✅ Salesforce Administration
-- User Management
-- Roles and Profiles
-- Permission Sets
-- Reports and Dashboards
+
+## ✅ Salesforce Development
 
 ---
 
