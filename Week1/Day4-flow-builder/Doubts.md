@@ -1,4 +1,4 @@
-# Doubts – Day 4 Salesforce Flow Builder
+# Doubts – Day 4
 
 1. What is Flow Builder in Salesforce?
 
@@ -8,14 +8,10 @@
 
 4. How does Salesforce automate workflows without coding?
 
-5. What problems occur in manual business processes?
+5. How does automation improve consistency and productivity?
 
-6. How does automation improve consistency and productivity?
+6. What are the different types of Flows in Salesforce?
 
-7. What are the different types of Flows in Salesforce?
+7. How do Decision elements work in Flow Builder?
 
-8. How do Decision elements work in Flow Builder?
-
-9. Why is no-code automation powerful in enterprise systems?
-
-10. Explain manual process vs automated process with a real-world example.
+8. Explain manual process vs automated process with a real-world example.
