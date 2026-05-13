@@ -45,6 +45,3 @@ College Management System:
 - Flow: Auto email on registration
 - Apex: Eligibility rules, complex logic
 
----
-
-## 6. Pseudocode Examples
