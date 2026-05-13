@@ -12,23 +12,16 @@ This repository contains:
 
 ---
 
-# 📚 Topics Covered in Week 1
-
-- Introduction to Salesforce
-- What is CRM
-- Salesforce Objects and Records
-- Salesforce Interface Basics
-- Salesforce Admin vs Developer
-- Data Model Basics
-
----
-
 # 🔗 Trailhead Modules
 
 Completed Modules:
 - Platform Basics
-- Data Model Basics
-- 
+- Data Modeling
+- Formulas and Validations
+- Flow Builder Basics
+- Datas and Actions in Flow
+- Apex & .NET Basics
+- Apex Basics & Database
 
 ---
 
