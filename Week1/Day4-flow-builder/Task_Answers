@@ -1,1 +1,49 @@
+Day 4 Answers
 
+## 1. What is Flow Builder?
+
+Flow Builder is a Salesforce tool used to automate business processes without coding.
+
+---
+
+## 2. Types of Flows
+
+### Screen Flow
+- User input required
+- Used for guided processes
+
+### Record-Triggered Flow
+- Runs automatically
+- Triggered by record changes
+
+---
+
+## 3. Why Automation Helps
+
+- Reduces manual effort
+- Improves accuracy
+- Saves time
+- Increases efficiency
+
+---
+
+## 4. Manual vs Automated Process
+
+### Manual
+- Human handling
+- Slow process
+- Error-prone
+
+### Automated
+- System-driven
+- Fast and accurate
+- No manual work needed
+
+---
+
+## 5. Why Companies Automate Processes
+
+- Handle large data efficiently
+- Reduce human errors
+- Improve business speed
+- Standardize processes
