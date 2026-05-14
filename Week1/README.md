@@ -22,6 +22,8 @@ Completed Modules:
 - Datas and Actions in Flow
 - Apex & .NET Basics
 - Apex Basics & Database
+- Database & .NET Basics
+- Apex Triggers
 
 ---
 
