@@ -9,29 +9,56 @@ This repository contains all weekly tasks, notes, learnings, Trailhead progress,
 
 The main objectives of this training program are:
 
-- Learn Salesforce fundamentals
-- Understand CRM concepts
+- Understand Salesforce platform fundamentals
+- Learn Salesforce development and CRM concepts 
 - Explore Salesforce Platform architecture
 - Learn Apps, Objects, Tabs, Records, and Fields
-- Understand Salesforce development basics
-- Learn configuration vs coding
+- Create validation rules and formulas
+- Develop automation using Flow Builder
 - Explore Apex, APIs, and Lightning Components
-- Understand Salesforce security and automation
+- Develop Lightning Web Components (LWC)
+- Understand Aura Components and component communication
 - Build real-world Salesforce application knowledge
 
 ---
 
 # 📚 Topics Covered
 
-## ✅ Salesforce Fundamentals
+## Salesforce Fundamentals
+- Salesforce Development Basics
+- Get Started with Salesforce Development
+- Salesforce Objects
+- Data Modeling
+- Formulas and Validation Rules
+- Custom Settings
 
-## ✅ Salesforce Platform
+## Flow and Automation
+- Flow Builder Basics
+- Data and Action Flows
+- Create Record-Triggered Flows
+- Duplicate Management using Flows
 
-## ✅ Data Model Concepts
+## Apex Programming
+- Apex Basics
+- Advanced Apex Concepts
+- Database and Apex Basics
+- Advanced Triggers
+- Collections Basics
+- Platform Events Basics
+- Apex Interfaces
 
-## ✅ Salesforce Administration
+## Lightning Development
+- Lightning Components Basics
+- Lightning Components for Aura Development
+- Aura Components Basics
+- Lightning Components and Salesforce Data
+- Communication Between Lightning Components
+- Secure Server-Side Development
 
-## ✅ Salesforce Development
+## Salesforce DX and Testing
+- Install Salesforce DX Essentials
+- App Testing Basics
+- Build a Simple LWC Application
 
 ---
 
@@ -39,26 +66,33 @@ The main objectives of this training program are:
 
 ```bash
 Salesforce-Summer-Training-Program/
+```bash
+Salesforce-Summer-Training-Program/
+│
+├── README.md
 │
 ├── Week-1/
 │   ├── Day-1/
 │   ├── Day-2/
 │   ├── Day-3/
 │   ├── Day-4/
-│   └── Day-5/
+│   ├── Day-5/
+│   └── Day-6/
 │
 ├── Week-2/
 │   ├── Day-1/
 │   ├── Day-2/
 │   ├── Day-3/
 │   ├── Day-4/
-│   └── Day-5/
+│   ├── Day-5/
+│   └── Day-6/
 │
 ├── Week-3/
 │   ├── Day-1/
 │   ├── Day-2/
 │   ├── Day-3/
 │   ├── Day-4/
-│   └── Day-5/
+│   ├── Day-5/
+│   └── Day-6/
 │
 └── Screenshots/
