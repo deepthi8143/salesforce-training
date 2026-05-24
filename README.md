@@ -66,8 +66,6 @@ The main objectives of this training program are:
 
 ```bash
 Salesforce-Summer-Training-Program/
-```bash
-Salesforce-Summer-Training-Program/
 │
 ├── README.md
 │
