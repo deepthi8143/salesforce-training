@@ -121,6 +121,8 @@ Screenshots are available inside each day folder.
 ```bash
 Salesforce-Summer-Program/
 │
+├── Week-3/
+│
 ├── Day-1/
 │   ├── README.md
 │   ├── Notes.md
@@ -135,18 +137,5 @@ Salesforce-Summer-Program/
 │   ├── Task-Answers.md
 │   └── Doubts.md
 │
-├── Day-3/
-│   ├── README.md
-│   ├── Notes.md
-│   ├── Learnings.md
-│   ├── Task-Answers.md
-│   └── Doubts.md
-│
-├── Day-4/
-│   ├── README.md
-│   ├── Notes.md
-│   ├── Learnings.md
-│   ├── Task-Answers.md
-│   └── Doubts.md
-│
 └── Screenshots/
+
