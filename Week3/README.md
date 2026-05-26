@@ -86,7 +86,8 @@ By the end of Week 3, I understood:
 ---
 
 # 📸 Screenshots
- 
+
+Screenshots are available inside each day folder.
 
 ---
 
