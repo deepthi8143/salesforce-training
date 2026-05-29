@@ -1,4 +1,4 @@
-Doubts – Day 4
+Doubts – Day 10
 
 1. How do large Salesforce systems handle millions of records?
 
