@@ -1,4 +1,4 @@
-# 📘 Learnings – Day1
+# 📘 Learnings – Day 7
 
 # ✅ Key Learnings
 
