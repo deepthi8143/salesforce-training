@@ -1,4 +1,4 @@
-# 📘 Learnings – Day4
+# 📘 Learnings – Day 10
 
 # ✅ Key Learnings
 
