@@ -1,8 +1,8 @@
-# 🚀 Day 4 Mini Project
+# 🚀 Day 10 Mini Project
 
 ## 🎯 System Overview
 
-Day4 focused on integrating all Salesforce concepts learned so far into one connected enterprise mini project.
+Day 10 focused on integrating all Salesforce concepts learned so far into one connected enterprise mini project.
 
 ### Mini Project:
 # 🎓 College Management System
