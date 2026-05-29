@@ -1,4 +1,4 @@
-Day2
+Day 8
 
 1. Difference between Aura Components and LWC?
 
