@@ -1,4 +1,4 @@
-# 🚀 Salesforce Training– Day 2
+# 🚀 Salesforce Training– Day 14
 
 ## 🎯 Goal for Today
 
@@ -167,7 +167,7 @@ I realized enterprises require controlled workflows because large organizations 
 
 # 🎯 End of Day Outcome
 
-By the end of Day 2, I clearly understood:
+By the end of Day 14, I clearly understood:
 
 ✅ Approval workflows  
 ✅ Branching automation logic  
