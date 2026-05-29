@@ -1,4 +1,4 @@
-# 📘 Salesforce Day1 Notes
+# 📘 Salesforce Day 7 Notes
 
 # 🧪 Why Testing Matters
 
