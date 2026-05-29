@@ -1,8 +1,8 @@
-# 🚀 Salesforce training – Day1
+# 🚀 Salesforce training – Day 7
 
 ## 🎯 Objective
 
-By the end of Day1, I understood:
+By the end of Day 7, I understood:
 
 - Why testing matters in enterprise systems
 - What Asynchronous Apex is
@@ -56,4 +56,4 @@ By the end of Day1, I understood:
 
 # 📌 Outcome
 
-Successfully completed Day1 Salesforce testing and developer workflow fundamentals.
+Successfully completed Day 7 Salesforce testing and developer workflow fundamentals.
