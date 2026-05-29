@@ -1,8 +1,8 @@
-# 🚀 Salesforce Training – Day 6
+# 🚀 Salesforce Training – Day 12
 
 ## 🎯 Objective
 
-Day 6 focused on understanding how professional Salesforce teams develop enterprise applications collaboratively using:
+Day 12 focused on understanding how professional Salesforce teams develop enterprise applications collaboratively using:
 
 - Salesforce DX
 - Salesforce CLI
@@ -179,7 +179,7 @@ Enterprise development also requires:
 
 # 📌 Outcome
 
-By the end of Day 6, I clearly understood:
+By the end of Day 12, I clearly understood:
 
 ✅ Professional Salesforce development workflow  
 ✅ Importance of Salesforce DX and CLI  
