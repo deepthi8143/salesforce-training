@@ -1,4 +1,4 @@
-# 📘 Learnings – Day 5
+# 📘 Learnings – Day 11
 
 # ✅ Key Learnings
 
@@ -28,5 +28,3 @@ I learned how enterprise systems:
 - Execute background jobs
 - Maintain data consistency
 - Scale for large numbers of users
-
----
