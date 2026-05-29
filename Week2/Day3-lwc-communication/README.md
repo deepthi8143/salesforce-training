@@ -1,8 +1,8 @@
-# 🚀 Salesforce training– Day3
+# 🚀 Salesforce training– Day 9
 
 ## 🎯 Objective
 
-By the end of Day3, I understood:
+By the end of Day9, I understood:
 
 - How Lightning Web Components communicate
 - Parent-child communication in applications
@@ -48,4 +48,4 @@ By the end of Day3, I understood:
 
 # 📌 Outcome
 
-Successfully completed Day3 Salesforce component communication and UI architecture concepts.
+Successfully completed Day9 Salesforce component communication and UI architecture concepts.
