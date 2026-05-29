@@ -1,4 +1,4 @@
-# 📘 Salesforce Day 6 Notes
+# 📘 Salesforce Day 12 Notes
 
 # ⚡ Salesforce DX
 
