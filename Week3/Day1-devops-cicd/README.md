@@ -1,8 +1,8 @@
-# 🚀 Salesforce Training – Day 1
+# 🚀 Salesforce Training – Day 13
 
 ## 🎯 Objective
 
-Day 1 focused on understanding how enterprise Salesforce applications are deployed, maintained, and managed professionally using:
+Day 13 focused on understanding how enterprise Salesforce applications are deployed, maintained, and managed professionally using:
 
 - CI/CD
 - DevOps
@@ -217,7 +217,7 @@ Enterprise software engineering requires much more planning and workflow managem
 
 # 📌 Outcome
 
-By the end of Day 1, I clearly understood:
+By the end of Day 13, I clearly understood:
 ✅ Enterprise deployment workflow  
 ✅ CI/CD basics  
 ✅ GitHub collaboration workflow  
