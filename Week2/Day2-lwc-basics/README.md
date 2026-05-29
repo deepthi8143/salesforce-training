@@ -1,8 +1,8 @@
-# 🚀 Salesforce training– Day2
+# 🚀 Salesforce training– Day 8
 
 ## 🎯 Objective
 
-By the end of Day2, I understood:
+By the end of Day 8, I understood:
 
 - What Lightning Web Components (LWC) are
 - Why Salesforce uses component-based UI
@@ -52,4 +52,4 @@ By the end of Day2, I understood:
 
 # 📌 Outcome
 
-Successfully completed Day2 Salesforce LWC fundamentals and component-based UI concepts.
+Successfully completed Day 8 Salesforce LWC fundamentals and component-based UI concepts.
