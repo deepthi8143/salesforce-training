@@ -1,4 +1,4 @@
-# 📘 Salesforce Day3 Notes
+# 📘 Salesforce Day 9 Notes
 
 # ⚡ Component Communication
 
