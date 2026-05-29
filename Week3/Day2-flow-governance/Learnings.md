@@ -1,4 +1,4 @@
-# 📘 Learnings – Day 2
+# 📘 Learnings – Day 14
 
 # Key Learnings
 
