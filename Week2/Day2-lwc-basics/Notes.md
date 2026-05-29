@@ -1,4 +1,4 @@
-# 📘 Salesforce Day2 Notes
+# 📘 Salesforce Day8 Notes
 
 # ⚡ What is LWC?
 
