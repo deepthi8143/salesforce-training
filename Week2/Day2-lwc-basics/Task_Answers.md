@@ -1,4 +1,4 @@
-Day2 Answers
+Day8 Answers
 
 ## 1️⃣ What is LWC?
 
