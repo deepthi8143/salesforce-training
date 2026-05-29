@@ -1,4 +1,4 @@
-# 🚀 Salesforce Summer Program – Task Day 1
+# 🚀 Salesforce Summer Program – Day 1
 
 ## 🎯 Objective
 
