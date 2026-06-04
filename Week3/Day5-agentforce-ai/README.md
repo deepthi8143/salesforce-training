@@ -33,8 +33,6 @@ Completed Modules:
 
 Successfully explored how AI agents work within Salesforce and how businesses can use AI-powered automation to improve productivity, customer support, and decision-making.
 
----
-
 # 🎯 Key Takeaway
 
 AI agents are not just chatbots. They can understand requests, access business data, execute actions, and automate enterprise workflows intelligently
