@@ -80,8 +80,7 @@ Completed Modules:
 - LWC Communication
 - Salesforce Data Integration
 - Secure Server-Side Development
-- Visualforce Basics
-- Aura Basics
+- Visualforce and Aura Basics
 
 ---
 
