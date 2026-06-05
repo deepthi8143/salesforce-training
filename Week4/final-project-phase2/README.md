@@ -24,21 +24,21 @@ Components:
 
 Apex Classes:
 
--leaveController
--leaveService
+- leaveController
+- leaveService
 
-## Database
+### Database
 
 Custom Objects:
 
--Employee
--Leave Request
+- Employee
+- Leave Request
 
-## Automation
+### Automation
 
--Record Triggered Flows
--Email Notifications
--Approval Processes
+- Record Triggered Flows
+- Email Notifications
+- Approval Processes
 
 ---
 
