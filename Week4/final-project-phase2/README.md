@@ -27,8 +27,6 @@ Apex Classes:
 -leaveController
 -leaveService
 
----
-
 ## Database
 
 Custom Objects:
