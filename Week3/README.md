@@ -102,14 +102,12 @@ Salesforce-Summer-Program/
 │   ├── README.md
 │   ├── Notes.md
 │   ├── Learnings.md
-│   ├── Task-Answers.md
-│   └── Doubts.md
+│   └── Task-Answers.md
 │
 ├── Day-2/
 │   ├── README.md
 │   ├── Notes.md
 │   ├── Learnings.md
-│   ├── Task-Answers.md
-│   └── Doubts.md
+│   └── Task-Answers.md
 │
 └── Screenshots/
