@@ -1,4 +1,4 @@
-# 🚀 Salesforce Training 
+# 🚀 Salesforce Training
 
 Welcome to my Salesforce Training Program repository.  
 This repository contains all weekly tasks, notes, learnings, Trailhead progress, screenshots, and Salesforce concepts learned throughout the training program.
@@ -10,7 +10,7 @@ This repository contains all weekly tasks, notes, learnings, Trailhead progress,
 The main objectives of this training program are:
 
 - Understand Salesforce platform fundamentals
-- Learn Salesforce development and CRM concepts 
+- Learn Salesforce development and CRM concepts
 - Explore Salesforce Platform architecture
 - Learn Apps, Objects, Tabs, Records, and Fields
 - Create validation rules and formulas
@@ -62,6 +62,20 @@ The main objectives of this training program are:
 
 ---
 
+# 🛠️ Tools & Technologies
+
+- Salesforce Platform
+- Trailhead
+- Apex
+- Lightning Web Components (LWC)
+- Flow Builder
+- Salesforce DX (SFDX)
+- Salesforce CLI
+- Visual Studio Code
+- Git & GitHub
+
+---
+
 # 📂 Repository Structure
 
 ```bash
@@ -95,8 +109,7 @@ Salesforce-Summer-Training-Program/
 │
 └── Screenshots/
 
----
 
-## Author
+👨‍💻 Author
 
-Based on the Salesforce Platform Developer Trailmix created by Santhosh Rebello.
+Based On Salesforce Platform Developer Trailmix by Santhosh Rebello
