@@ -17,7 +17,6 @@ The main objectives of this training program are:
 - Develop automation using Flow Builder
 - Explore Apex, APIs, and Lightning Components
 - Develop Lightning Web Components (LWC)
-- Understand Aura Components and component communication
 - Build real-world Salesforce application knowledge
 
 ---
@@ -108,8 +107,10 @@ Salesforce-Summer-Training-Program/
 │   └── Day-6/
 │
 └── Screenshots/
+```
 
+---
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Based On Salesforce Platform Developer Trailmix by Santhosh Rebello
