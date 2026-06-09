@@ -94,3 +94,9 @@ Salesforce-Summer-Training-Program/
 │   └── Day-6/
 │
 └── Screenshots/
+
+---
+
+## Author
+
+Based on the Salesforce Platform Developer Trailmix created by Santhosh Rebello.
